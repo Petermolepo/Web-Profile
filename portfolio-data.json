@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "name": "Matale Peter Molepo",
+    "initials": "MPM",
+    "title": "Full Stack Developer",
+    "subtitle": "C# / .NET Core · Angular · Node.js · RESTful APIs · AI/ML — building scalable digital solutions from Johannesburg, SA.",
+    "available": true,
+    "availabilityText": "Immediately Available"
+  },
+  "contact": {
+    "email": "matale.molepo01@gmail.com",
+    "phone": "078 411 7126",
+    "location": "Johannesburg, Gauteng · Open to Relocation",
+    "github": "github.com/Petermolepo",
+    "linkedin": "",
+    "iitpsa": "No. 20251212406 · Jan 2026 – Jan 2027",
+    "licence": "Code C1 · Own Vehicle",
+    "nationality": "South African Citizen",
+    "studentNo": "ST10368577",
+    "relocation": "Open domestically & internationally (incl. Mauritius)"
+  },
+  "stats": [
+    { "label": "Degree",  "value": "BSc Distinction" },
+    { "label": "GPA",     "value": "3.00 / 4.0" },
+    { "label": "Status",  "value": "Available", "highlight": true }
+  ],
+  "skills": [
+    { "name": "C# / .NET Core",          "pct": 88 },
+    { "name": "Angular (TypeScript)",     "pct": 82 },
+    { "name": "Java (Spring Boot)",       "pct": 85 },
+    { "name": "JavaScript / TypeScript",  "pct": 86 },
+    { "name": "Node.js / Express",        "pct": 83 },
+    { "name": "RESTful API Design",       "pct": 90 },
+    { "name": "SQL Server / MySQL",       "pct": 85 },
+    { "name": "MongoDB / NoSQL",          "pct": 80 },
+    { "name": "Python",                   "pct": 78 },
+    { "name": "React",                    "pct": 74 },
+    { "name": "Git & CI/CD",              "pct": 88 },
+    { "name": "AWS / Azure Cloud",        "pct": 70 }
+  ],
+  "chips": [
+    "C#","ASP.NET Core","Entity Framework",".NET Core","Angular","TypeScript",
+    "Java","Spring Boot","Python","JavaScript","React","Node.js","Express",
+    "MongoDB","SQL Server","MySQL","REST APIs","JWT Auth","RBAC","AWS S3",
+    "Azure","Docker","Git","CI/CD","Kotlin","Pandas","NumPy","Matplotlib",
+    "Seaborn","Scikit-learn","Jupyter","Power BI","CRISP-DM","Jest",
+    "Unit Testing","Microservices","OOP","SOLID","Agile/Scrum",
+    "Joi Validation","Winston","Cron Jobs"
+  ],
+  "marquee": [
+    "CodSoft","OASIS Infobyte","IIE MSA University","IITPSA Member",
+    "SA Project 360 IQ","AWS Cloud","MongoDB Atlas","Spring Boot","ASP.NET Core"
+  ],
+  "experience": [
+    {
+      "title": "Java Development Intern",
+      "company": "CodSoft",
+      "location": "Johannesburg",
+      "dates": "Apr – May 2024",
+      "badge": { "text": "Backend Dev", "cls": "badge-pink" },
+      "bullets": [
+        "Designed and developed scalable backend application modules applying OOP and SOLID principles.",
+        "Built and tested RESTful service integrations, implementing API design best practices and secure delivery.",
+        "Wrote unit tests, participated in structured peer code reviews, and applied Git workflows to maintain quality.",
+        "Collaborated within an agile sprint environment — contributing to sprint planning, stand-ups, and retrospectives.",
+        "Applied SDLC best practices including structured testing, CI-aligned version control, and secure coding standards."
+      ],
+      "chips": ["Java","REST APIs","OOP","SOLID","Unit Testing","Git","Agile"]
+    },
+    {
+      "title": "Data Analytics Intern",
+      "company": "OASIS Infobyte",
+      "location": "Johannesburg",
+      "dates": "May – Jun 2024",
+      "badge": { "text": "Data Analytics", "cls": "badge-cyan" },
+      "bullets": [
+        "Developed automated data ingestion and transformation pipelines using Python and REST-based APIs.",
+        "Built structured reports and data visualisations consumed by cross-functional stakeholders.",
+        "Worked with SQL and NoSQL data sources to query, clean, and structure datasets for full stack platforms.",
+        "Recognised for outstanding performance in analytical delivery, technical accuracy, and cross-team communication."
+      ],
+      "chips": ["Python","Pandas","SQL","NoSQL","REST APIs","Data Visualisation"]
+    },
+    {
+      "title": "Assistant Chairperson – IT Society",
+      "company": "IIE Emeris University (IIE MSA)",
+      "location": "Johannesburg",
+      "dates": "Jan 2024 – Dec 2025",
+      "badge": { "text": "Leadership", "cls": "badge-amber" },
+      "bullets": [
+        "Led planning and execution of hackathons and technical workshops on full stack development, APIs, cloud computing, and security for 100+ student members.",
+        "Mentored peers in C#, JavaScript, software engineering, and career readiness.",
+        "Facilitated industry partnerships, connecting students to agile engineering and DevOps practices."
+      ],
+      "chips": ["Leadership","Mentorship","Event Planning","DevOps","Agile"]
+    }
+  ],
+  "projects": [
+    {
+      "emoji": "🏗️",
+      "name": "SA Project 360 IQ",
+      "desc": "Full stack REST API engineering project management system targeting South African municipal and government clients. Built from scratch with enterprise-grade architecture.",
+      "tags": ["Node.js","Express","MongoDB","JWT Auth","RBAC","AWS S3","Mongoose","REST API"],
+      "link": ""
+    },
+    {
+      "emoji": "🔐",
+      "name": "7-Role RBAC System",
+      "desc": "Designed a seven-role access control architecture with JWT refresh tokens, session management, and secure middleware protecting a six-stage project lifecycle.",
+      "tags": ["JWT","RBAC","Node.js","Security","Express","MongoDB"],
+      "link": ""
+    },
+    {
+      "emoji": "📊",
+      "name": "Data Analytics Pipeline",
+      "desc": "Automated data ingestion and transformation pipelines using Python and REST APIs, producing structured reports and visualisations for stakeholders.",
+      "tags": ["Python","Pandas","REST API","NumPy","Matplotlib","Seaborn"],
+      "link": ""
+    },
+    {
+      "emoji": "🏦",
+      "name": "Banking Services API",
+      "desc": "Designed secure, scalable backend microservices in C#/.NET Core with Entity Framework, SQL Server integration, and CI/CD-aligned deployment workflows.",
+      "tags": ["C#",".NET Core","SQL Server","Entity Framework","Microservices","ASP.NET"],
+      "link": ""
+    },
+    {
+      "emoji": "📱",
+      "name": "Kotlin Open Source",
+      "desc": "Contributed to Kotlin open-source projects over a full year (2023–2024), building Android-compatible components and applying modern mobile development patterns.",
+      "tags": ["Kotlin","Android","Open Source","Git","OOP"],
+      "link": ""
+    },
+    {
+      "emoji": "🌐",
+      "name": "Angular Frontend Components",
+      "desc": "Developed Angular-based frontend components with TypeScript, integrating RESTful APIs and implementing responsive UI patterns for enterprise digital platforms.",
+      "tags": ["Angular","TypeScript","HTML5","CSS3","REST API","Responsive Design"],
+      "link": ""
+    }
+  ],
+  "datascience": [
+    {
+      "icon": "📈",
+      "title": "Data Analytics Internship",
+      "text": "Completed a data analytics internship at OASIS Infobyte, building automated ETL pipelines, working with structured and unstructured datasets, and delivering actionable insights through data visualisation.",
+      "tools": ["Python","Pandas","NumPy","Matplotlib","Seaborn","SQL"]
+    },
+    {
+      "icon": "🤖",
+      "title": "AI / ML Fundamentals",
+      "text": "Specialised module in AI/ML fundamentals as part of BSc curriculum — covering machine learning algorithms, model evaluation, feature engineering, and ethical AI principles.",
+      "tools": ["Scikit-learn","Jupyter","Python","ML Algorithms","Feature Engineering"]
+    },
+    {
+      "icon": "🗃️",
+      "title": "Advanced Database Systems",
+      "text": "Achieved 98% in Advanced Databases (NQF 7) — covering relational modelling, query optimisation, NoSQL architecture, and distributed data systems design.",
+      "tools": ["SQL Server","MySQL","MongoDB","Query Optimisation","NoSQL","Schema Design"]
+    },
+    {
+      "icon": "📊",
+      "title": "Data Pipeline Engineering",
+      "text": "Built REST-based data ingestion workflows integrating multiple data sources, transforming raw datasets into structured formats for downstream analytics and reporting.",
+      "tools": ["REST APIs","Python","ETL","Data Cleaning","Pandas","Automation"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc Computer & Information Sciences — with Distinction",
+      "school": "IIE Emeris University (IIE MSA)",
+      "meta": "Johannesburg · NQF Level 7 · SAQA ID 88605 · 360 Credits · 2023 – 2025",
+      "score": "GPA 3.00 · Distinction",
+      "modules": "Programming 1A (100%) · Programming 1B (100%) · Advanced Databases NQF 7 (98%) · Web Dev Intermediate (95%) · Programming 2A (94%) · App Dev Security NQF 7 (75%) · Open Source Coding (84%)",
+      "extra": "🏆 Academic Excellence Award — Mathematical Science · Top Achiever"
+    }
+  ],
+  "languages": [
+    { "flag": "🇿🇦", "name": "English",  "level": "Fluent" },
+    { "flag": "🇿🇦", "name": "Sesotho", "level": "Native" }
+  ]
+}
